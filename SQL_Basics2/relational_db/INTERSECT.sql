@@ -1,0 +1,7 @@
+SELECT MakeName FROM Make
+
+INTERSECT
+
+SELECT MakeName FROM ForeignMake
+
+ORDER BY MakeNAme DESC;

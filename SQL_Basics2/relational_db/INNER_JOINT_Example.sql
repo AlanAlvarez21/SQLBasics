@@ -1,0 +1,1 @@
+SELECT * FROM Make INNER JOIN Model ON make.MakeID = model.MakeID;

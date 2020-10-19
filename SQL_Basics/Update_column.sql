@@ -1,0 +1,1 @@
+UPDATE books SET autor= 'Bob' ; 

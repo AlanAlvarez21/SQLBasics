@@ -1,0 +1,1 @@
+SELECT CONVERT (date, GETDATE());

@@ -1,0 +1,1 @@
+SELECT nombre + ' ' + autor AS "OBRA y ACTOR" , año AS "AÑO PUBLICACIÓN:" FROM libros;

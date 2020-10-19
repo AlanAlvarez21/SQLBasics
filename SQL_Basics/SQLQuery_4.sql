@@ -1,0 +1,1 @@
+SELECT * FROM Books WHERE nombre LIKE 'fantasia';

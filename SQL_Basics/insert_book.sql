@@ -1,0 +1,1 @@
+INSERT INTO books (Id,nombre,autor,genero,año) VALUES (12,'ayjtjn','alan','alan', 3000);

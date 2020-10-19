@@ -1,0 +1,1 @@
+SELECT * FROM libros WHERE id NOT IN (SELECT Id FROM books WHERE año = 2500);

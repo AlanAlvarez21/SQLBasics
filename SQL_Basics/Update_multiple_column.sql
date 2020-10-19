@@ -1,0 +1,1 @@
+UPDATE books SET nombre= 'fantasia' , genero='fantasia';

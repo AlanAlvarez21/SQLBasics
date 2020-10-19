@@ -1,0 +1,1 @@
+INSERT INTO books ([Id],nombre,autor,genero,año) (1, 'justina', 'sade', 'fantasia', 1600);

@@ -1,0 +1,1 @@
+SELECT nombre, LENGTH(nombre) AS length FROM libros WHERE length < 7;

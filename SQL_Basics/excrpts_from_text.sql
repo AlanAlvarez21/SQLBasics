@@ -1,0 +1,1 @@
+SELECT nombre, SUBSTRING(autor, 1, 6) + '...' AS descripcion, año FROM libros; 

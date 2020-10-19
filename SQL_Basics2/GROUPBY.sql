@@ -1,0 +1,1 @@
+SELECT SUM(id) FROM libros GROUP BY año WHERE año > 1500  ;

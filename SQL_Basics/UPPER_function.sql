@@ -1,0 +1,1 @@
+SELECT UPPER(nombre) FROM libros ;

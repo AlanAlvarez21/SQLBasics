@@ -1,0 +1,1 @@
+SELECT AVG(id) AS average FROM libros;

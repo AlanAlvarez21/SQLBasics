@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM Loans WHERE loaned_on BETWEEN ('2015-12-14') AND CONVERT (date, GETDATE());
